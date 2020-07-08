@@ -4,3 +4,4 @@
 <h3> Deploying on a VM </h3>
 <h4> Deploying latest image </h4>
 <h5> deploying latest image 7th July <h5>
+<h6> Thanks- 8th July </h6>
